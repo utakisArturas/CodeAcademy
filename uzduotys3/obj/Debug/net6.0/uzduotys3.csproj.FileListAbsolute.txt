@@ -1,0 +1,15 @@
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\bin\Debug\net6.0\uzduotys3.exe
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\bin\Debug\net6.0\uzduotys3.deps.json
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\bin\Debug\net6.0\uzduotys3.runtimeconfig.json
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\bin\Debug\net6.0\uzduotys3.dll
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\bin\Debug\net6.0\ref\uzduotys3.dll
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\bin\Debug\net6.0\uzduotys3.pdb
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\obj\Debug\net6.0\uzduotys3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\obj\Debug\net6.0\uzduotys3.AssemblyInfoInputs.cache
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\obj\Debug\net6.0\uzduotys3.AssemblyInfo.cs
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\obj\Debug\net6.0\uzduotys3.csproj.CoreCompileInputs.cache
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\obj\Debug\net6.0\uzduotys3.dll
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\obj\Debug\net6.0\ref\uzduotys3.dll
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\obj\Debug\net6.0\uzduotys3.pdb
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\obj\Debug\net6.0\uzduotys3.genruntimeconfig.cache
+C:\Users\utaki\source\repos\uzduotys3\uzduotys3\obj\Debug\net6.0\uzduotys3.csproj.AssemblyReference.cache
