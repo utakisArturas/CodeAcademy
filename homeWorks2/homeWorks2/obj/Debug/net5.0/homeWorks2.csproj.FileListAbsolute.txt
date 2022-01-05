@@ -1,0 +1,16 @@
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\bin\Debug\net5.0\homeWorks2.exe
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\bin\Debug\net5.0\homeWorks2.deps.json
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\bin\Debug\net5.0\homeWorks2.runtimeconfig.json
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\bin\Debug\net5.0\homeWorks2.runtimeconfig.dev.json
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\bin\Debug\net5.0\homeWorks2.dll
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\bin\Debug\net5.0\ref\homeWorks2.dll
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\bin\Debug\net5.0\homeWorks2.pdb
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\obj\Debug\net5.0\homeWorks2.csproj.AssemblyReference.cache
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\obj\Debug\net5.0\homeWorks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\obj\Debug\net5.0\homeWorks2.AssemblyInfoInputs.cache
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\obj\Debug\net5.0\homeWorks2.AssemblyInfo.cs
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\obj\Debug\net5.0\homeWorks2.csproj.CoreCompileInputs.cache
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\obj\Debug\net5.0\homeWorks2.dll
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\obj\Debug\net5.0\ref\homeWorks2.dll
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\obj\Debug\net5.0\homeWorks2.pdb
+C:\Users\utaki\Documents\Code\homeWorks2\homeWorks2\obj\Debug\net5.0\homeWorks2.genruntimeconfig.cache

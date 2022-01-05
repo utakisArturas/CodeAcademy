@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CodeAcademy0104/1.0.0": {
+        "runtime": {
+          "CodeAcademy0104.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeAcademy0104/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

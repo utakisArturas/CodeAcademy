@@ -1,0 +1,15 @@
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\bin\Debug\net5.0\CodeAcademyLessons03.exe
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\bin\Debug\net5.0\CodeAcademyLessons03.deps.json
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\bin\Debug\net5.0\CodeAcademyLessons03.runtimeconfig.json
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\bin\Debug\net5.0\CodeAcademyLessons03.runtimeconfig.dev.json
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\bin\Debug\net5.0\CodeAcademyLessons03.dll
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\bin\Debug\net5.0\ref\CodeAcademyLessons03.dll
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\bin\Debug\net5.0\CodeAcademyLessons03.pdb
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\obj\Debug\net5.0\CodeAcademyLessons03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\obj\Debug\net5.0\CodeAcademyLessons03.AssemblyInfoInputs.cache
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\obj\Debug\net5.0\CodeAcademyLessons03.AssemblyInfo.cs
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\obj\Debug\net5.0\CodeAcademyLessons03.csproj.CoreCompileInputs.cache
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\obj\Debug\net5.0\CodeAcademyLessons03.dll
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\obj\Debug\net5.0\ref\CodeAcademyLessons03.dll
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\obj\Debug\net5.0\CodeAcademyLessons03.pdb
+C:\Users\utaki\Documents\Code\CodeAcademyLessons03\CodeAcademyLessons03\obj\Debug\net5.0\CodeAcademyLessons03.genruntimeconfig.cache
