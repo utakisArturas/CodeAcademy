@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\utaki\\Documents\\Code\\CodeLessons\\CodeLessons\\CodeLessons.csproj": {}
+    "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\CodeAcademy\\CodeLessons\\CodeLessons\\CodeLessons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\utaki\\Documents\\Code\\CodeLessons\\CodeLessons\\CodeLessons.csproj": {
+    "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\CodeAcademy\\CodeLessons\\CodeLessons\\CodeLessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\utaki\\Documents\\Code\\CodeLessons\\CodeLessons\\CodeLessons.csproj",
+        "projectUniqueName": "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\CodeAcademy\\CodeLessons\\CodeLessons\\CodeLessons.csproj",
         "projectName": "CodeLessons",
-        "projectPath": "C:\\Users\\utaki\\Documents\\Code\\CodeLessons\\CodeLessons\\CodeLessons.csproj",
+        "projectPath": "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\CodeAcademy\\CodeLessons\\CodeLessons\\CodeLessons.csproj",
         "packagesPath": "C:\\Users\\utaki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\utaki\\Documents\\Code\\CodeLessons\\CodeLessons\\obj\\",
+        "outputPath": "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\CodeAcademy\\CodeLessons\\CodeLessons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\utaki\\AppData\\Roaming\\NuGet\\NuGet.Config",

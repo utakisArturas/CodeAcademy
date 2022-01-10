@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\CodeAcademy\\CodeAcademy0104\\CodeAcademy0104\\CodeAcademy0104.csproj": {}
+    "C:\\Users\\utaki\\Documents\\Code\\CA0110\\CA0110\\CA0110.csproj": {}
   },
   "projects": {
-    "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\CodeAcademy\\CodeAcademy0104\\CodeAcademy0104\\CodeAcademy0104.csproj": {
+    "C:\\Users\\utaki\\Documents\\Code\\CA0110\\CA0110\\CA0110.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\CodeAcademy\\CodeAcademy0104\\CodeAcademy0104\\CodeAcademy0104.csproj",
-        "projectName": "CodeAcademy0104",
-        "projectPath": "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\CodeAcademy\\CodeAcademy0104\\CodeAcademy0104\\CodeAcademy0104.csproj",
+        "projectUniqueName": "C:\\Users\\utaki\\Documents\\Code\\CA0110\\CA0110\\CA0110.csproj",
+        "projectName": "CA0110",
+        "projectPath": "C:\\Users\\utaki\\Documents\\Code\\CA0110\\CA0110\\CA0110.csproj",
         "packagesPath": "C:\\Users\\utaki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\utaki\\OneDrive\\Documents\\GitHub\\CodeAcademy\\CodeAcademy0104\\CodeAcademy0104\\obj\\",
+        "outputPath": "C:\\Users\\utaki\\Documents\\Code\\CA0110\\CA0110\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\utaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net5.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
           "imports": [
             "net461",
             "net462",
@@ -52,6 +52,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
