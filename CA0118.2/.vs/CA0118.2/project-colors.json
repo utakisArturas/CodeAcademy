@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a44f5311-9a44-42ad-8aec-be283d14e911": {
+      "ProjectGuid": "a44f5311-9a44-42ad-8aec-be283d14e911",
+      "DisplayName": "CA0118.2",
+      "ColorIndex": 0
+    },
+    "cf05f188-cbc9-41ae-9877-f778b74df108": {
+      "ProjectGuid": "cf05f188-cbc9-41ae-9877-f778b74df108",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

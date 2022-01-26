@@ -1,0 +1,16 @@
+C:\Users\utaki\Documents\Code\HM0120\HM0120\bin\Debug\net5.0\HM0120.exe
+C:\Users\utaki\Documents\Code\HM0120\HM0120\bin\Debug\net5.0\HM0120.deps.json
+C:\Users\utaki\Documents\Code\HM0120\HM0120\bin\Debug\net5.0\HM0120.runtimeconfig.json
+C:\Users\utaki\Documents\Code\HM0120\HM0120\bin\Debug\net5.0\HM0120.runtimeconfig.dev.json
+C:\Users\utaki\Documents\Code\HM0120\HM0120\bin\Debug\net5.0\HM0120.dll
+C:\Users\utaki\Documents\Code\HM0120\HM0120\bin\Debug\net5.0\ref\HM0120.dll
+C:\Users\utaki\Documents\Code\HM0120\HM0120\bin\Debug\net5.0\HM0120.pdb
+C:\Users\utaki\Documents\Code\HM0120\HM0120\obj\Debug\net5.0\HM0120.csproj.AssemblyReference.cache
+C:\Users\utaki\Documents\Code\HM0120\HM0120\obj\Debug\net5.0\HM0120.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utaki\Documents\Code\HM0120\HM0120\obj\Debug\net5.0\HM0120.AssemblyInfoInputs.cache
+C:\Users\utaki\Documents\Code\HM0120\HM0120\obj\Debug\net5.0\HM0120.AssemblyInfo.cs
+C:\Users\utaki\Documents\Code\HM0120\HM0120\obj\Debug\net5.0\HM0120.csproj.CoreCompileInputs.cache
+C:\Users\utaki\Documents\Code\HM0120\HM0120\obj\Debug\net5.0\HM0120.dll
+C:\Users\utaki\Documents\Code\HM0120\HM0120\obj\Debug\net5.0\ref\HM0120.dll
+C:\Users\utaki\Documents\Code\HM0120\HM0120\obj\Debug\net5.0\HM0120.pdb
+C:\Users\utaki\Documents\Code\HM0120\HM0120\obj\Debug\net5.0\HM0120.genruntimeconfig.cache

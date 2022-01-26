@@ -1,0 +1,16 @@
+C:\Users\utaki\Documents\Code\CA0126\CA0126\obj\Debug\net5.0\CA0126.csproj.AssemblyReference.cache
+C:\Users\utaki\Documents\Code\CA0126\CA0126\obj\Debug\net5.0\CA0126.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utaki\Documents\Code\CA0126\CA0126\obj\Debug\net5.0\CA0126.AssemblyInfoInputs.cache
+C:\Users\utaki\Documents\Code\CA0126\CA0126\obj\Debug\net5.0\CA0126.AssemblyInfo.cs
+C:\Users\utaki\Documents\Code\CA0126\CA0126\obj\Debug\net5.0\CA0126.csproj.CoreCompileInputs.cache
+C:\Users\utaki\Documents\Code\CA0126\CA0126\bin\Debug\net5.0\CA0126.exe
+C:\Users\utaki\Documents\Code\CA0126\CA0126\bin\Debug\net5.0\CA0126.deps.json
+C:\Users\utaki\Documents\Code\CA0126\CA0126\bin\Debug\net5.0\CA0126.runtimeconfig.json
+C:\Users\utaki\Documents\Code\CA0126\CA0126\bin\Debug\net5.0\CA0126.runtimeconfig.dev.json
+C:\Users\utaki\Documents\Code\CA0126\CA0126\bin\Debug\net5.0\CA0126.dll
+C:\Users\utaki\Documents\Code\CA0126\CA0126\bin\Debug\net5.0\ref\CA0126.dll
+C:\Users\utaki\Documents\Code\CA0126\CA0126\bin\Debug\net5.0\CA0126.pdb
+C:\Users\utaki\Documents\Code\CA0126\CA0126\obj\Debug\net5.0\CA0126.dll
+C:\Users\utaki\Documents\Code\CA0126\CA0126\obj\Debug\net5.0\ref\CA0126.dll
+C:\Users\utaki\Documents\Code\CA0126\CA0126\obj\Debug\net5.0\CA0126.pdb
+C:\Users\utaki\Documents\Code\CA0126\CA0126\obj\Debug\net5.0\CA0126.genruntimeconfig.cache

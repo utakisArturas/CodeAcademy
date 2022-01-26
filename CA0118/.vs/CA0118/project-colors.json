@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c04ee1c2-3849-4d12-9c2a-54e14d0ec1b8": {
+      "ProjectGuid": "c04ee1c2-3849-4d12-9c2a-54e14d0ec1b8",
+      "DisplayName": "CA0118",
+      "ColorIndex": 0
+    },
+    "e893e779-1c98-4158-9b90-cb39768babcc": {
+      "ProjectGuid": "e893e779-1c98-4158-9b90-cb39768babcc",
+      "DisplayName": "StudentsTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

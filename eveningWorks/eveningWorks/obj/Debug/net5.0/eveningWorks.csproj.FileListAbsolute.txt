@@ -1,0 +1,16 @@
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\bin\Debug\net5.0\eveningWorks.exe
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\bin\Debug\net5.0\eveningWorks.deps.json
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\bin\Debug\net5.0\eveningWorks.runtimeconfig.json
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\bin\Debug\net5.0\eveningWorks.runtimeconfig.dev.json
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\bin\Debug\net5.0\eveningWorks.dll
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\bin\Debug\net5.0\ref\eveningWorks.dll
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\bin\Debug\net5.0\eveningWorks.pdb
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\obj\Debug\net5.0\eveningWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\obj\Debug\net5.0\eveningWorks.AssemblyInfoInputs.cache
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\obj\Debug\net5.0\eveningWorks.AssemblyInfo.cs
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\obj\Debug\net5.0\eveningWorks.csproj.CoreCompileInputs.cache
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\obj\Debug\net5.0\eveningWorks.dll
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\obj\Debug\net5.0\ref\eveningWorks.dll
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\obj\Debug\net5.0\eveningWorks.pdb
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\obj\Debug\net5.0\eveningWorks.genruntimeconfig.cache
+C:\Users\utaki\Documents\Code\eveningWorks\eveningWorks\obj\Debug\net5.0\eveningWorks.csproj.AssemblyReference.cache

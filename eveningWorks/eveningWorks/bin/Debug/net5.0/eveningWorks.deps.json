@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "eveningWorks/1.0.0": {
+        "runtime": {
+          "eveningWorks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eveningWorks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

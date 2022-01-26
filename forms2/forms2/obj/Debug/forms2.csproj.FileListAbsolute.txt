@@ -1,0 +1,11 @@
+C:\Users\utaki\Documents\Code\forms2\forms2\bin\Debug\forms2.exe.config
+C:\Users\utaki\Documents\Code\forms2\forms2\bin\Debug\forms2.exe
+C:\Users\utaki\Documents\Code\forms2\forms2\bin\Debug\forms2.pdb
+C:\Users\utaki\Documents\Code\forms2\forms2\obj\Debug\forms2.csproj.AssemblyReference.cache
+C:\Users\utaki\Documents\Code\forms2\forms2\obj\Debug\forms2.csproj.SuggestedBindingRedirects.cache
+C:\Users\utaki\Documents\Code\forms2\forms2\obj\Debug\forms2.Form1.resources
+C:\Users\utaki\Documents\Code\forms2\forms2\obj\Debug\forms2.Properties.Resources.resources
+C:\Users\utaki\Documents\Code\forms2\forms2\obj\Debug\forms2.csproj.GenerateResource.cache
+C:\Users\utaki\Documents\Code\forms2\forms2\obj\Debug\forms2.csproj.CoreCompileInputs.cache
+C:\Users\utaki\Documents\Code\forms2\forms2\obj\Debug\forms2.exe
+C:\Users\utaki\Documents\Code\forms2\forms2\obj\Debug\forms2.pdb

@@ -1,0 +1,16 @@
+C:\Users\utaki\Documents\Code\CW02\CW02\bin\Debug\net5.0\CW02.exe
+C:\Users\utaki\Documents\Code\CW02\CW02\bin\Debug\net5.0\CW02.deps.json
+C:\Users\utaki\Documents\Code\CW02\CW02\bin\Debug\net5.0\CW02.runtimeconfig.json
+C:\Users\utaki\Documents\Code\CW02\CW02\bin\Debug\net5.0\CW02.runtimeconfig.dev.json
+C:\Users\utaki\Documents\Code\CW02\CW02\bin\Debug\net5.0\CW02.dll
+C:\Users\utaki\Documents\Code\CW02\CW02\bin\Debug\net5.0\ref\CW02.dll
+C:\Users\utaki\Documents\Code\CW02\CW02\bin\Debug\net5.0\CW02.pdb
+C:\Users\utaki\Documents\Code\CW02\CW02\obj\Debug\net5.0\CW02.csproj.AssemblyReference.cache
+C:\Users\utaki\Documents\Code\CW02\CW02\obj\Debug\net5.0\CW02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utaki\Documents\Code\CW02\CW02\obj\Debug\net5.0\CW02.AssemblyInfoInputs.cache
+C:\Users\utaki\Documents\Code\CW02\CW02\obj\Debug\net5.0\CW02.AssemblyInfo.cs
+C:\Users\utaki\Documents\Code\CW02\CW02\obj\Debug\net5.0\CW02.csproj.CoreCompileInputs.cache
+C:\Users\utaki\Documents\Code\CW02\CW02\obj\Debug\net5.0\CW02.dll
+C:\Users\utaki\Documents\Code\CW02\CW02\obj\Debug\net5.0\ref\CW02.dll
+C:\Users\utaki\Documents\Code\CW02\CW02\obj\Debug\net5.0\CW02.pdb
+C:\Users\utaki\Documents\Code\CW02\CW02\obj\Debug\net5.0\CW02.genruntimeconfig.cache

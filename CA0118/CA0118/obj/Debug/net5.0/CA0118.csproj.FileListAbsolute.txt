@@ -1,0 +1,16 @@
+C:\Users\utaki\Documents\Code\CA0118\CA0118\bin\Debug\net5.0\CA0118.exe
+C:\Users\utaki\Documents\Code\CA0118\CA0118\bin\Debug\net5.0\CA0118.deps.json
+C:\Users\utaki\Documents\Code\CA0118\CA0118\bin\Debug\net5.0\CA0118.runtimeconfig.json
+C:\Users\utaki\Documents\Code\CA0118\CA0118\bin\Debug\net5.0\CA0118.runtimeconfig.dev.json
+C:\Users\utaki\Documents\Code\CA0118\CA0118\bin\Debug\net5.0\CA0118.dll
+C:\Users\utaki\Documents\Code\CA0118\CA0118\bin\Debug\net5.0\ref\CA0118.dll
+C:\Users\utaki\Documents\Code\CA0118\CA0118\bin\Debug\net5.0\CA0118.pdb
+C:\Users\utaki\Documents\Code\CA0118\CA0118\obj\Debug\net5.0\CA0118.csproj.AssemblyReference.cache
+C:\Users\utaki\Documents\Code\CA0118\CA0118\obj\Debug\net5.0\CA0118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utaki\Documents\Code\CA0118\CA0118\obj\Debug\net5.0\CA0118.AssemblyInfoInputs.cache
+C:\Users\utaki\Documents\Code\CA0118\CA0118\obj\Debug\net5.0\CA0118.AssemblyInfo.cs
+C:\Users\utaki\Documents\Code\CA0118\CA0118\obj\Debug\net5.0\CA0118.csproj.CoreCompileInputs.cache
+C:\Users\utaki\Documents\Code\CA0118\CA0118\obj\Debug\net5.0\CA0118.dll
+C:\Users\utaki\Documents\Code\CA0118\CA0118\obj\Debug\net5.0\ref\CA0118.dll
+C:\Users\utaki\Documents\Code\CA0118\CA0118\obj\Debug\net5.0\CA0118.pdb
+C:\Users\utaki\Documents\Code\CA0118\CA0118\obj\Debug\net5.0\CA0118.genruntimeconfig.cache
